@@ -12,7 +12,16 @@
 				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/FItemStruct.uasset",
 				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/Item_Data.uasset",
 				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/IInteractInterface.uasset",
-				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/Items/TESTItem.uasset"
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/Items/TESTItem.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/QB/Y4ONNTTL5F9UF0H0Y18ES4.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/ItemDataComponent.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/Items/Icons/apple_T.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/UI/W_InventoryGrid.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/UI/W_InventorySlot.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/UI/W_PlayerMenu.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/FirstPerson/Blueprints/MyPlayerController.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/W_PlayerHUD.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
 			]
 		}
 	]
