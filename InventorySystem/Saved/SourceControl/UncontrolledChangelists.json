@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/InventorySystem.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/FSlotStruct.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/FItemStruct.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/Item_Data.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/IInteractInterface.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/Items/TESTItem.uasset"
+			]
+		}
+	]
+}
