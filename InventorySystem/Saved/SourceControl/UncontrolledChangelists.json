@@ -24,7 +24,9 @@
 				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/DD_InventorySlot.uasset",
 				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/UI/W_DragPreview.uasset",
-				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/UI/Materials/MUI_Circle.uasset"
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/UI/Materials/MUI_Circle.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/Chest.uasset",
+				"D:/DGitHub/EU5-InventorySystem/InventorySystem/Content/Inventory/UI/W_ContainerInventory.uasset"
 			]
 		}
 	]

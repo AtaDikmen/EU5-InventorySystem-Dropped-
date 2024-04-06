@@ -1,0 +1,6 @@
+2024/04/04-17:34:03.436 eac Creating DB D:/DGitHub/EU5-InventorySystem/InventorySystem/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/04/04-17:34:03.446 eac Reusing MANIFEST D:/DGitHub/EU5-InventorySystem/InventorySystem/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/04-17:36:41.036 eac Level-0 table #5: started
+2024/04/04-17:36:41.049 eac Level-0 table #5: 1167 bytes OK
+2024/04/04-17:36:41.056 eac Delete type=0 #3
+2024/04/04-17:36:41.056 eac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
